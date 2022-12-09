@@ -15,7 +15,7 @@ class _LikeButtonState extends State<LikeButton> {
         icon: _isLiked
             ? const Icon(
                 Icons.favorite_outlined,
-                color: Colors.red,
+                color: Colors.red
               )
             : const Icon(
                 Icons.favorite_border,
